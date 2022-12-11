@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="roll" />
+    <string name="aikerim_muti" />
+    <string name="Roll">Roll</string>
+</resources>
